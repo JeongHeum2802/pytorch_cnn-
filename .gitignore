@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# PyTorch model/checkpoint files
+*.pth
+*.pt
+*.ckpt
+
+# Image files
+*.png
+*.jpg
+*.jpeg
